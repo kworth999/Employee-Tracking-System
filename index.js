@@ -36,7 +36,7 @@ const questions = {
       type: 'list',
       name: 'additions',
       message: 'What data would you like to add?',
-      choices: ['New department', 'New role', 'New employee']
+      choices: ['New employee', 'New role', 'New department']
    }],
    updates: [{
       type: 'list',
