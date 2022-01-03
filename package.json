@@ -1,0 +1,23 @@
+{
+    "name": "employee-tracking-system",
+    "version": "1.0.0",
+    "description": "Node app for viewing and managing employees",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kworth999/employee-tracking-system"
+    },
+    "author": "Kayla Worth",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kworth999/employee-tracking-system/issues"
+    },
+    "homepage": "https://github.com/kworth999/employee-tracking-system#readme",
+    "dependencies": {
+        "inquirer": "^8.0.0",
+        "mysql": "^2.18.1"
+    }
+}
