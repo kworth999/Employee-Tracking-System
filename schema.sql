@@ -44,4 +44,3 @@ manager_id INT NULL,
 PRIMARY KEY(id)
 );
 
-
